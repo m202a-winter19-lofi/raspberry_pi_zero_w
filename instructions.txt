@@ -1,0 +1,11 @@
+Make sure the pi is connected to the phone as a wifi hotspot. 
+Use "hostname -I" on the pi to see what IP addresses it's using, update the app to use the one it's hosting the website on.
+You should be able to visit the website on any device connected to the phone as wifi hotspot (including phone) by going to [that IP addr]:8080. 
+When ssh'd into the pi, use tmux to handle different 'tabs'.
+In tmux, use ctrl+b then : then enter split-window to make 2 tabs. Switch between them with ctrl+b then o. 
+Run python3 ~/cherrypy/project.py in one tab and sudo python scan.py in the other tab. 
+
+Debugging:
+Is the app trying to open the correct site? Use android studio log messages to see what it's trying to open 
+Is the site being hosted? Using a device connected to the phone's wifi hotspot, enter [that IP address]:8080 (without http before it) to see.
+

@@ -7,7 +7,7 @@ class BTEventHandler(DefaultDelegate):
     def __init__(self):
         DefaultDelegate.__init__(self)
         self.device_macs = []
-        self.output_file = open("/home/pi/cherrypy/va.txt", "w")
+        #self.output_file = open("/home/pi/cherrypy/va.txt", "w")
 
     def handleDiscovery(self, dev, isNewDev, isNewData):
         """ Adv data """
@@ -25,7 +25,9 @@ class BTEventHandler(DefaultDelegate):
         if cHandle == 40:
             unpacked = struct.unpack('B', data)
             print unpacked
-            f.write(unpacked[0]) # write data to file
+            f = open("/home/pi/cherrypy/va.txt", "w")
+            f.write(str(unpacked[0])) # write data to file
+            f.close()
 
 handler = BTEventHandler()
 
@@ -33,7 +35,7 @@ handler = BTEventHandler()
 scanner = Scanner().withDelegate(handler)
 
 """ Start scanning for (argument) seconds. While scanning, handleDiscovery will be called whenever a new device or new data is found"""
-scan_time = 30
+scan_time = 15
 print "Scanning devices for " + str(scan_time) + " seconds"
 devs = scanner.scan(scan_time)
 
@@ -61,10 +63,10 @@ battery_desc.write(b"\x01", True)
 """ Infinite loop to receive notifications """
 print "Connect successful. Entering notification receiving loop"
 while True:
-    #hexi.waitForNotifications(1.0)
-    try:
-        hexi.waitForNotifications(1.0)
-    except:
-        print "No values received"
+    hexi.waitForNotifications(1.0)
+    #try:
+    #    hexi.waitForNotifications(1.0)
+    #except:
+    #    print "No values received"
 
 

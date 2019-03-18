@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1552862622,,"wq"
+|2,0,1552868337,,"wq"
 :q
-|2,0,1552808297,,"q"
+|2,0,1552866823,,"q"
 :i
 |2,0,1552804995,,"i"
 :'<,',
@@ -36,230 +36,279 @@
 |3,0,18,0,1,0,1552720672,"	"
 
 # File marks:
-'0  6  37  ~/cherrypy/project.py
-|4,48,6,37,1552862622,"~/cherrypy/project.py"
-'1  10  19  ~/cherrypy/project.py
-|4,49,10,19,1552862171,"~/cherrypy/project.py"
-'2  10  19  ~/cherrypy/project.py
-|4,50,10,19,1552862171,"~/cherrypy/project.py"
-'3  9  18  ~/cherrypy/project.py
-|4,51,9,18,1552862131,"~/cherrypy/project.py"
-'4  9  18  ~/cherrypy/project.py
-|4,52,9,18,1552862131,"~/cherrypy/project.py"
-'5  9  18  ~/cherrypy/project.py
-|4,53,9,18,1552862131,"~/cherrypy/project.py"
-'6  9  18  ~/cherrypy/project.py
-|4,54,9,18,1552862131,"~/cherrypy/project.py"
-'7  46  56  ~/scan.py
-|4,55,46,56,1552809233,"~/scan.py"
-'8  46  51  ~/scan.py
-|4,56,46,51,1552809155,"~/scan.py"
-'9  69  0  ~/scan.py
-|4,57,69,0,1552809045,"~/scan.py"
+'0  38  13  ~/scan.py
+|4,48,38,13,1552868337,"~/scan.py"
+'1  37  3  ~/scan.py
+|4,49,37,3,1552866823,"~/scan.py"
+'2  37  3  ~/scan.py
+|4,50,37,3,1552866823,"~/scan.py"
+'3  66  3  ~/scan.py
+|4,51,66,3,1552866240,"~/scan.py"
+'4  66  3  ~/scan.py
+|4,52,66,3,1552866240,"~/scan.py"
+'5  66  3  ~/scan.py
+|4,53,66,3,1552866240,"~/scan.py"
+'6  66  3  ~/scan.py
+|4,54,66,3,1552866240,"~/scan.py"
+'7  27  20  ~/scan.py
+|4,55,27,20,1552864166,"~/scan.py"
+'8  27  20  ~/scan.py
+|4,56,27,20,1552864166,"~/scan.py"
+'9  27  20  ~/scan.py
+|4,57,27,20,1552864166,"~/scan.py"
 
 # Jumplist (newest first):
+-'  38  13  ~/scan.py
+|4,39,38,13,1552868337,"~/scan.py"
+-'  37  3  ~/scan.py
+|4,39,37,3,1552868327,"~/scan.py"
+-'  37  3  ~/scan.py
+|4,39,37,3,1552866823,"~/scan.py"
+-'  66  3  ~/scan.py
+|4,39,66,3,1552866813,"~/scan.py"
+-'  66  3  ~/scan.py
+|4,39,66,3,1552866813,"~/scan.py"
+-'  66  3  ~/scan.py
+|4,39,66,3,1552866240,"~/scan.py"
+-'  27  20  ~/scan.py
+|4,39,27,20,1552866226,"~/scan.py"
+-'  27  20  ~/scan.py
+|4,39,27,20,1552866226,"~/scan.py"
+-'  27  20  ~/scan.py
+|4,39,27,20,1552866226,"~/scan.py"
+-'  27  20  ~/scan.py
+|4,39,27,20,1552864166,"~/scan.py"
+-'  27  17  ~/scan.py
+|4,39,27,17,1552863675,"~/scan.py"
+-'  48  56  ~/scan.py
+|4,39,48,56,1552863609,"~/scan.py"
+-'  46  56  ~/scan.py
+|4,39,46,56,1552863609,"~/scan.py"
+-'  48  56  ~/scan.py
+|4,39,48,56,1552863609,"~/scan.py"
+-'  46  56  ~/scan.py
+|4,39,46,56,1552863609,"~/scan.py"
+-'  48  56  ~/scan.py
+|4,39,48,56,1552863609,"~/scan.py"
+-'  46  56  ~/scan.py
+|4,39,46,56,1552863609,"~/scan.py"
+-'  48  56  ~/scan.py
+|4,39,48,56,1552863609,"~/scan.py"
+-'  46  56  ~/scan.py
+|4,39,46,56,1552863609,"~/scan.py"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  11  0  ~/instructions.txt
+|4,39,11,0,1552862967,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
+-'  1  0  ~/instructions.txt
+|4,39,1,0,1552862762,"~/instructions.txt"
 -'  6  37  ~/cherrypy/project.py
 |4,39,6,37,1552862622,"~/cherrypy/project.py"
--'  10  19  ~/cherrypy/project.py
-|4,39,10,19,1552862592,"~/cherrypy/project.py"
--'  10  19  ~/cherrypy/project.py
-|4,39,10,19,1552862171,"~/cherrypy/project.py"
--'  9  18  ~/cherrypy/project.py
-|4,39,9,18,1552862152,"~/cherrypy/project.py"
--'  9  18  ~/cherrypy/project.py
-|4,39,9,18,1552862152,"~/cherrypy/project.py"
--'  9  18  ~/cherrypy/project.py
-|4,39,9,18,1552862131,"~/cherrypy/project.py"
--'  10  14  ~/cherrypy/project.py
-|4,39,10,14,1552862048,"~/cherrypy/project.py"
--'  46  56  ~/scan.py
-|4,39,46,56,1552809233,"~/scan.py"
--'  46  56  ~/scan.py
-|4,39,46,56,1552809233,"~/scan.py"
--'  46  56  ~/scan.py
-|4,39,46,56,1552809233,"~/scan.py"
--'  46  56  ~/scan.py
-|4,39,46,56,1552809233,"~/scan.py"
--'  46  56  ~/scan.py
-|4,39,46,56,1552809233,"~/scan.py"
--'  46  56  ~/scan.py
-|4,39,46,56,1552809233,"~/scan.py"
--'  46  56  ~/scan.py
-|4,39,46,56,1552809233,"~/scan.py"
--'  46  56  ~/scan.py
-|4,39,46,56,1552809233,"~/scan.py"
--'  46  51  ~/scan.py
-|4,39,46,51,1552809155,"~/scan.py"
--'  46  51  ~/scan.py
-|4,39,46,51,1552809155,"~/scan.py"
--'  46  51  ~/scan.py
-|4,39,46,51,1552809155,"~/scan.py"
--'  46  51  ~/scan.py
-|4,39,46,51,1552809155,"~/scan.py"
--'  46  51  ~/scan.py
-|4,39,46,51,1552809155,"~/scan.py"
--'  46  51  ~/scan.py
-|4,39,46,51,1552809155,"~/scan.py"
--'  46  51  ~/scan.py
-|4,39,46,51,1552809155,"~/scan.py"
--'  46  51  ~/scan.py
-|4,39,46,51,1552809155,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  69  0  ~/scan.py
-|4,39,69,0,1552809098,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  66  0  ~/scan.py
-|4,39,66,0,1552809045,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808959,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808920,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808920,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808920,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808920,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808920,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808920,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808920,"~/scan.py"
--'  10  40  ~/scan.py
-|4,39,10,40,1552808920,"~/scan.py"
--'  28  52  ~/scan.py
-|4,39,28,52,1552808907,"~/scan.py"
--'  28  52  ~/scan.py
-|4,39,28,52,1552808907,"~/scan.py"
--'  28  52  ~/scan.py
-|4,39,28,52,1552808907,"~/scan.py"
--'  28  52  ~/scan.py
-|4,39,28,52,1552808907,"~/scan.py"
--'  28  52  ~/scan.py
-|4,39,28,52,1552808907,"~/scan.py"
--'  28  52  ~/scan.py
-|4,39,28,52,1552808907,"~/scan.py"
--'  28  52  ~/scan.py
-|4,39,28,52,1552808907,"~/scan.py"
--'  28  52  ~/scan.py
-|4,39,28,52,1552808907,"~/scan.py"
--'  28  52  ~/scan.py
-|4,39,28,52,1552808907,"~/scan.py"
--'  28  52  ~/scan.py
-|4,39,28,52,1552808907,"~/scan.py"
--'  28  52  ~/scan.py
-|4,39,28,52,1552808907,"~/scan.py"
--'  28  52  ~/scan.py
-|4,39,28,52,1552808907,"~/scan.py"
--'  28  52  ~/scan.py
-|4,39,28,52,1552808907,"~/scan.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
+-'  6  37  ~/cherrypy/project.py
+|4,39,6,37,1552862622,"~/cherrypy/project.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/scan.py
+	*	1552868336	0
+	"	38	13
+	^	38	14
+	.	38	13
+	+	43	0
+	+	44	0
+	+	64	0
+	+	15	12
+	+	20	69
+	+	21	15
+	+	43	0
+	+	44	0
+	+	64	26
+	+	26	46
+	+	27	25
+	+	10	56
+	+	28	52
+	+	10	40
+	+	66	35
+	+	71	0
+	+	38	13
+	+	39	30
+	+	40	83
+	+	48	51
+	+	39	58
+	+	41	0
+	+	48	56
+	+	28	36
+	+	10	8
+	+	28	52
+	+	30	20
+	+	67	4
+	+	68	4
+	+	69	4
+	+	70	4
+	+	66	4
+	+	38	13
+
+> ~/instructions.txt
+	*	1552862966	0
+	"	11	0
+	^	11	0
+	.	10	141
+	+	2	123
+	+	3	144
+	+	6	87
+	+	10	141
 
 > ~/cherrypy/project.py
 	*	1552862621	0
@@ -274,35 +323,6 @@
 	+	9	19
 	+	10	20
 	+	6	37
-
-> ~/scan.py
-	*	1552809231	0
-	"	46	56
-	^	46	57
-	.	46	56
-	+	41	0
-	+	42	0
-	+	62	0
-	+	15	12
-	+	20	69
-	+	21	15
-	+	41	0
-	+	42	0
-	+	62	26
-	+	26	46
-	+	27	25
-	+	10	56
-	+	28	52
-	+	10	40
-	+	64	35
-	+	69	0
-	+	36	13
-	+	37	30
-	+	38	83
-	+	46	51
-	+	37	58
-	+	39	0
-	+	46	56
 
 > ~/read.py
 	*	1552808294	0
